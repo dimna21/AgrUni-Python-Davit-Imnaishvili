@@ -12,3 +12,4 @@ def triangle():
     area = math.sqrt(x*(x-a)*(x-b)*(x-c))
     print(f"Area: {area}, Perimeter: {perimeter}")
 
+triangle()
